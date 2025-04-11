@@ -1,5 +1,7 @@
-## Hi there 👋
-
+# Список проектов из резюме:
+1) Распознавание лиц: https://github.com/PatheticOTD/NeonCicada.ai
+2) ГПТ: https://github.com/PatheticOTD/tiny_gpt
+3) Берта: https://github.com/PatheticOTD/bert_stess_emotions_classification
 <!--
 **PatheticOTD/PatheticOTD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
